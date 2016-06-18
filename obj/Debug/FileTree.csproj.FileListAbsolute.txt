@@ -1,0 +1,14 @@
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\FileTree.csprojResolveAssemblyReference.cache
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\MainWindow.g.cs
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\App.g.cs
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\MainWindow.baml
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\FileTree.csproj.GenerateResource.Cache
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\bin\Debug\SimpleHTMLFolderCreator.exe.config
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\bin\Debug\SimpleHTMLFolderCreator.exe
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\bin\Debug\SimpleHTMLFolderCreator.pdb
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\SimpleHTMLFolderCreator_MarkupCompile.cache
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\SimpleHTMLFolderCreator_MarkupCompile.lref
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\SimpleHTMLFolderCreator.g.resources
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\SimpleHTMLFolderCreator.Properties.Resources.resources
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\SimpleHTMLFolderCreator.exe
+C:\Users\kubal\Documents\Visual Studio 2015\Projects\FileTree\FileTree\obj\Debug\SimpleHTMLFolderCreator.pdb
